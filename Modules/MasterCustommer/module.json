@@ -1,0 +1,14 @@
+{
+    "name": "MasterCustommer",
+    "alias": "mastercustommer",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\MasterCustommer\\Providers\\MasterCustommerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

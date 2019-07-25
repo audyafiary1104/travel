@@ -1,0 +1,14 @@
+{
+    "name": "Hoteliers",
+    "alias": "hoteliers",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Hoteliers\\Providers\\HoteliersServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/homeuser",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\HomeUser\\Providers\\HomeUserServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\HomeUser\\": ""
+        }
+    }
+}

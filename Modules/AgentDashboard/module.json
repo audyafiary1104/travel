@@ -1,0 +1,14 @@
+{
+    "name": "AgentDashboard",
+    "alias": "agentdashboard",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\AgentDashboard\\Providers\\AgentDashboardServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
